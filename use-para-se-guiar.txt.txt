@@ -1,0 +1,23 @@
+
+// Use este ficheiro como um índice para te guiar sobre a ordem dos tópicos a serem abordados.
+1-PrimeiroPrograma
+2-Variaveis
+3-EntradaDeDados
+4-EstruturaCondicoes
+5-EstruturaRepeticao
+6-Array
+7-ArrayComScanner
+8-Metodo
+9-EscopoVariaveis
+10-Pessoa 
+
+
+Nota: Lembre-se de que Java é uma linguagem compilada, ou seja, o código-fonte precisa ser convertido (compilado) para bytecode antes de ser executado. O compilador utilizado para isso é o `javac`.
+
+  Exemplo de compilação:
+       javac Variaveis.java
+
+   Após a compilação, será gerado um arquivo .class (bytecode). Para executar:
+       java Variaveis  // (sem a extensão .java)
+
+   Você também pode usar uma IDE como Eclipse, Visual Studio Code, NetBeans, entre outras,que facilitam esse processo automatizando a compilação e execução do programa, além de ajudar com sugestões e organização do código.
