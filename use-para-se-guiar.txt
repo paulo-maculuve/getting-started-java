@@ -10,6 +10,9 @@
 8-Metodo
 9-EscopoVariaveis
 10-Pessoa 
+11.Construtor  
+12.ModificadorAcesso  
+
 
 
 Nota: Lembre-se de que Java é uma linguagem compilada, ou seja, o código-fonte precisa ser convertido (compilado) para bytecode antes de ser executado. O compilador utilizado para isso é o `javac`.

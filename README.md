@@ -3,7 +3,6 @@
 Este projeto apresenta uma introdução prática à linguagem de programação **Java**, abordando conceitos fundamentais em ordem progressiva. Abaixo está o índice com os tópicos a serem estudados e implementados:
 
 ## Ordem dos Tópicos
-
 1. **PrimeiroPrograma**  
 2. **Variaveis**  
 3. **EntradaDeDados**  
@@ -13,7 +12,10 @@ Este projeto apresenta uma introdução prática à linguagem de programação *
 7. **ArrayComScanner**  
 8. **Metodo**  
 9. **EscopoVariaveis**  
-10. **Pessoa**
+10. **Pessoa**  
+11. **Construtor**  
+12. **ModificadorAcesso**  
+
 
 ---
 
